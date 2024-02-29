@@ -3,17 +3,17 @@
 ## Tech Stack
 2lambda123/topstep-trader-challenge is built on the following main stack:
 
-- [Buffer](https://bufferapp.com/) – Social Media Tools
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Browserify](http://browserify.org/) – Front End Package Manager
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [LiveReload](http://livereload.com) – Live Reloading
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [LiveReload](http://livereload.com) – Live Reloading
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [Buffer](https://bufferapp.com/) – Social Media Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -23,17 +23,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/topstep-trader-challenge is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/825/hnc3q-7x.jpg' alt='Buffer'/> [Buffer](https://bufferapp.com/) – Social Media Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/topstep-trader-challenge](https://github.com/2lambda123/topstep-trader-challenge)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|47<br/>Tools used|01/09/24 <br/>Report generated|
+|47<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
